@@ -1,0 +1,5 @@
+.hidden
+.readonly
+__pycache/
+.ipynb_checkpoints/
+dummy/
